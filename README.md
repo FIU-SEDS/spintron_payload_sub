@@ -1,6 +1,4 @@
-# 'Spintron' - IREC 2025 Payload
-
-> Subsystem spin
+# 'Spintron' - IREC 2025 Payload -> Subsystem Spin
 
 The software is split into 2 parts a spin subsystem and a main subsystem.
 The spin subsystem is the software on the ESP 32 C3 which sends messages to the main subsystem via ESP now for the following:

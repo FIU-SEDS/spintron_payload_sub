@@ -8,5 +8,9 @@ The spin subsystem is the software on the ESP 32 C3 which sends messages to the 
 
 Otherwise no calculations are done on this subsystem, all colleccted data is sent to the main subsystem for processing, saving, etc.
 
-
 This software is built and tested using the Ardiuno IDE.
+
+
+## Wiring Diagram
+
+![Wiring Diagram](./assets/wiring.png)
